@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="discord.gg/cathook">
+  <a href="e-z.bio/iikla69">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
